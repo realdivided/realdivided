@@ -1,6 +1,6 @@
 # About Me
 ## Skills
-  <img src="https://skillicons.dev/icons?i=java,golang,javascript,idea,maven,discord,github" />
+  <img src="https://skillicons.dev/icons?i=java,golang,javascript,html,css,idea,maven,discord,github" />
 
 <details>
   <summary>Reach me</summary>
